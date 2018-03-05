@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 07 11:19:18 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0160-2f85-5d0e-0000058c3b38 
+on database directory /home/sujithmenon/Documents/dbmsfinal/tvseries with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/sujithmenon/jdk1.8.0_151/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/home/sujithmenon/Documents/dbmsfinal
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-40-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath='root.Derbyjarfile'
